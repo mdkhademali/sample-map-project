@@ -1,4 +1,4 @@
-## Sample Map Project
+## Simple Map Project
 
 This project demonstrates an interactive web map using **Leaflet.js** on the frontend and a **Flask** backend API serving GeoJSON spatial data.
 
